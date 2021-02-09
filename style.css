@@ -342,6 +342,8 @@ form{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+     /* background-color: rgb(255, 255, 255);
+    box-shadow: 0px 1px 0px 0px rgba(226, 222, 224, 0.004); */
 }
 
 .posts__title p{
@@ -378,8 +380,8 @@ form{
 /* } */
 
 .posts__title-wrapper{
-    width: 55px;
-    height: 55px;
+    width: 59px;
+    height: 59px;
     background-color: #1baf5d;
     background-image: url("img/hide_map/Vector\ Smart\ Object.png");
     background-size: 30px 23px;
@@ -387,8 +389,23 @@ form{
     background-position-x: center;
     background-position-y: center;
     border-radius: 50%;
-    border: 2.5px solid #ffffff;
+    border: 1px solid #3a3737;
     margin-top: -30px;
     padding: 0;
     /* margin: 0; */
 }
+
+.Rounded_Rectangle_2_copy_9 {
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 1px 0px 0px rgba(226, 222, 224, 0.004);
+    position: absolute;
+    left: 905px;
+    top: 1451px;
+    width: 210px;
+    height: 270px;
+    z-index: 109;
+  }
+
+  
+  
